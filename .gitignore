@@ -30,4 +30,4 @@ node_modules/
 
 # training images
 training_data/images
-training_output
+training_output/
